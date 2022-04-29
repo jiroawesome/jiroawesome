@@ -11,16 +11,24 @@ I'm also learning CS.
 # Experience
 
 JavaScript - Junior
-NodeJs (for backend) - Senior
-HTML - Junior
-Rust - Learning
-Python- Junior
-C++ - Beginner
-C - Beginner
-C# - not even starting yet but i know some basics
-Java - Beginner
-Pascal - Learning
 
+NodeJs (for backend) - Senior
+
+HTML - Junior
+
+Rust - Learning
+
+Python- Junior
+
+C++ - Beginner
+
+C - Beginner
+
+C# - not even starting yet but i know some basics
+
+Java - Beginner
+
+Pascal - Learning
 
 # Links
 
