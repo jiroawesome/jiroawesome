@@ -24,7 +24,10 @@ Pascal - Learning
 
 # Links
 
+
 Click [here](https://portfolio.jiroawesome.tech) to see my portfolio!
+
+
 Click [here](https://dsc.gg/jiro) to join on my discord portfolio server!
 
 
