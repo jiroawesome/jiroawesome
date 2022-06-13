@@ -10,25 +10,25 @@ I'm also learning CS.
 
 # Experience
 
-JavaScript - Junior
+__JavaScript__ - Senior
 
-NodeJs (for backend) - Senior
+__NodeJs__ (for backend) - Senior
 
-HTML - Junior
+__HTML__ - Junior
 
-Rust - Learning
+__Rust__ - Novice
 
-Python- Junior
+Python- Senior
 
-C++ - Beginner
+__C++__ - Novice
 
-C - Beginner
+__C__ - Beginner
 
-C# - not even starting yet but i know some basics
+__C#__ - Beginner
 
-Java - Beginner
+__Java__ - Junior
 
-Pascal - Learning
+__Pascal__ - Learning
 
 # Links
 
@@ -38,7 +38,11 @@ Click [here](https://portfolio.jiroawesome.tech) to see my portfolio!
 
 Click [here](https://dsc.gg/jiro) to join on my discord portfolio server!
 
+# Support me!
 
+- ETH 0x883084e645B7F8dFc61a03446A54839E982665D9
+
+- BTC bc1q5udam52fdkeqqxyjnxtqs88qkmxwcuw83lx08t
 
 
 # Contact me!
