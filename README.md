@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jiroawesome&color=green)
 
-Hello there! I'm a back-end developer and I like coding stuff. I'm 15 and my birthday is on November 20.
+Hello there! I'm a senior developer and I like coding stuff. I'm 15 and my birthday is on November 20.
 Aside from programming, I also love to play basketball, play guitar, and I also love to cook.
 My pronouns are he/him.
 I'm also learning CS.
