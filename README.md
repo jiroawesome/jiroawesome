@@ -18,7 +18,7 @@ __HTML__ - Junior
 
 __Rust__ - Novice
 
-Python- Senior
+__Python__ - Senior
 
 __C++__ - Novice
 
