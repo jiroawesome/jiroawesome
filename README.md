@@ -2,10 +2,26 @@
 
 ![](https://komarev.com/ghpvc/?username=jiroawesome&color=green)
 
-Hello there! I'm a backend developer, and a python library developer. I like coding stuff. I'm 15 and my birthday is on November 20.
-Aside from programming, I also love to play basketball, play guitar, and I also love to cook.
-My pronouns are he/him.
-I'm also learning CS.
+```py
+class JiroDeveloper:
+  def __init__(self):
+      intro = """
+      Hello there! I'm a backend developer, and a python library developer. I like coding stuff. I'm 15 and my birthday is on November 20.
+      Aside from programming, I also love to play basketball, play guitar, and I also love to cook.
+      My pronouns are he/him.
+      I'm also learning CS.
+      """
+      self.intro = intro
+      self.portfolio_url = "\nhttps://portfolio.jiroawesome.tech/"
+
+  def start(self):
+      intro = self.intro
+      port = self.portfolio_url
+      return intro + self.portfolio_url
+
+st = JiroDeveloper()
+print(st.start())
+```
 
 
 # Experience
